@@ -278,10 +278,10 @@ body {
         background-image: url('../img/local.png');
     }  
     .emailico:before {
-        background-image: url('../img/emailico.png');
+        background-image: url('../img/email.png');
     }  
     .telefoneico:before {
-        background-image: url('../img/telefoneico.png');
+        background-image: url('../img/tel.png');
     }  
     
     
