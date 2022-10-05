@@ -289,7 +289,7 @@ body {
     }  
 
 
-    img {
+    .img {
         border-image-source: url("../img/LI.jpg");
         width: 150px;
         height: 150px;
