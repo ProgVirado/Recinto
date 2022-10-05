@@ -7,9 +7,11 @@ body {
        padding: 0px!important; 
     }
     .menu-principal {
+    
     width: 100%;
-    background-color: #252323;
+    background-color: #2d2d2d;
     height: 100px;
+    
     }
     main, .content {
     margin: 0 auto;
@@ -28,7 +30,8 @@ body {
     list-style: none;
     }
     .redes-sociais {
-    width: 25%;
+    width: 10%;
+    
     float: right;
     }
     .header-2 {
@@ -284,7 +287,16 @@ body {
     .telefoneico:before {
         background-image: url('../img/tel.png');
     }  
-    
+
+
+    img {
+        border-image-source: url("../img/LI.jpg");
+        width: 150px;
+        height: 150px;
+        border-radius: 100px;
+        border: 5px solid green;
+
+    }
     
     
     
