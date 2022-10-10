@@ -270,13 +270,14 @@ body {
     
     
     .local:before, .emailico:before, .telefoneico:before {
+        
         content: '';
-        width:  17px;
+        width:  35px;
         height: 24px;
-        display: inline-block;
+        display: inline-block ;
         float: none;
         background-repeat: no-repeat;
-        padding-left: 10px;
+        padding-left: 15px;
     }
     .local:before {
         background-image: url('../img/local.png');
