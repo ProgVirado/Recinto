@@ -195,7 +195,7 @@ body {
     }
     
     .bloco-imagens-texto {
-        background-color: #eeeeee;
+        background-color:#eeeeee;
     }
     .bloco-imagens-texto:before {
         width: 100%;
@@ -225,10 +225,12 @@ body {
      padding-top: 1em;
      vertical-align: middle;
     }
+    
     .col-4 img:hover {
         margin-top: 10px!important;
         position: relative!important;
     }
+    
     
     .bloco-logos {
         height: 170px;
@@ -267,8 +269,7 @@ body {
     .clock {
         color: #898989!important;
     }
-    
-    
+
     .local:before, .emailico:before, .telefoneico:before {
         
         content: '';
@@ -299,7 +300,43 @@ body {
 
     }
     
-    
+    .Mais--Detalhes{
+     display: inline-block;
+     align-items: center , left ;
+     margin: -0px -9;
+     margin-inline-start: 50pt;  
+    }
+    .Mais--Detalhes2{
+        display: inline-block;
+        align-items: center , left ;
+        margin: 11px -9;
+        margin-inline-start: 50pt;  
+       }.Mais--Detalhes3{
+        display: inline-block;
+        align-items: center , left ;
+        margin: -10px -5;
+        margin-inline-start: 50pt;  
+       }.Mais--Detalhes4{
+        display: inline-block;
+        align-items: center , left ;
+        margin: -30px -10;
+        margin-inline-start: 24pt;  
+       }.Mais--Detalhes5{
+        display: inline-block;
+        align-items: center , left ;
+        margin: -9px -9;
+        margin-inline-start: 53pt;  
+       }.Mais--Detalhes6{
+        display: inline-block;
+        align-items: center , left ;
+        margin: 13px -9;
+        margin-inline-start: 53pt;  
+       }.Mais--Detalhes7{
+        display: inline-block;
+        align-items: center , left ;
+        margin: -0px -9;
+        margin-inline-start: 50pt;  
+       }
     
     
     
